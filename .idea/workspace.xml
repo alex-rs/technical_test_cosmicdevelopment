@@ -5,7 +5,11 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ac185e1-66e2-464e-9c45-9f1787927856" name="Default Changelist" comment="" />
+    <list default="true" id="8ac185e1-66e2-464e-9c45-9f1787927856" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +168,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599652005022</updated>
-      <workItem from="1599652008263" duration="27776000" />
+      <workItem from="1599652008263" duration="28299000" />
     </task>
     <servers />
   </component>
@@ -192,9 +196,9 @@
       <screen x="1080" y="1503" width="1920" height="1001" />
     </state>
     <state x="1934" y="1898" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/1080.1503.1920.1001/0.23.1080.2537@1080.1503.1920.1001" timestamp="1600874218702" />
-    <state x="1705" y="1724" width="670" height="676" key="search.everywhere.popup" timestamp="1600874981552">
+    <state x="1705" y="1724" width="670" height="676" key="search.everywhere.popup" timestamp="1600882407361">
       <screen x="1080" y="1503" width="1920" height="1001" />
     </state>
-    <state x="1705" y="1724" width="670" height="676" key="search.everywhere.popup/1080.1503.1920.1001/0.23.1080.2537@1080.1503.1920.1001" timestamp="1600874981552" />
+    <state x="1705" y="1724" width="670" height="676" key="search.everywhere.popup/1080.1503.1920.1001/0.23.1080.2537@1080.1503.1920.1001" timestamp="1600882407361" />
   </component>
 </project>
